@@ -1,12 +1,8 @@
+<img  src="Imagens/Principal.png"  alt="Irmão do Joel"  width="90"  align="right">
+
 # Brother of Joel ⚔️
 
-<img  src="Imagens/Principal.png"  alt="Irmão do Joel"  width="100"  align="right">
-
-Projeto feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020.
-  
-## O Jogo 🎮
-
-<iframe  src="https://scratch.mit.edu/projects/499562882/embed"  allowtransparency="true"  width="483"  height="400"  frameborder="0"  scrolling="no"  allowfullscreen  align="center"></iframe>
+Projeto feito para disciplina de Introdução a programação do CEFET-RJ no ano letivo de 2020. 
 
 ## Sinopse 📖
 
