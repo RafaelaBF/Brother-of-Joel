@@ -31,7 +31,7 @@ Feito no scratch😺, o jogo tem seu design todo em pixel art👾 e contém vár
 - 👨🏻‍💻 ERIC BARBOSA CASTELLAR PINHEIRO; <a href="https://github.com/Ericcastell"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Ericcastell" width="50"></a>
 - 👨🏿‍💻 ERICK SILVA DE ALMEIDA; 
 - 👩🏻‍💻 RAFAELA BEZERRA DE FIGUEIREDO; <a href="https://github.com/RafaelaBF"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RafaelaBF" width="50"></a>
-- 👨🏻‍💻 VICTOR PINHEIRO PALMEIRA.
+- 👨🏻‍💻 VICTOR PINHEIRO PALMEIRA. <a href="https://github.com/burgues0"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/burgues0" width="50"></a>
 
 ## 💡 Professor e inspiração para o jogo:
 
