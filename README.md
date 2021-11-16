@@ -35,4 +35,4 @@ Feito no scratch😺, o jogo tem seu design todo em pixel art👾 e contém vár
 
 ## 💡 Professor e inspiração para o jogo:
 
-- 👨🏻‍🏫 JOEL ANDRE FERREIRA DOS SANTOS.
+- 👨🏻‍🏫 JOEL ANDRE FERREIRA DOS SANTOS. 
